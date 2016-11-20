@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MakeBizFriend</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Finish</string>
+
+    <string name="slide_1_title">Connect with Business Friends</string>
+    <string name="slide_1_desc">Connecting with your friends, Connecting business buddies, Network for business buddies, Network for friends beyond distance</string>
+
+    <string name="slide_2_title">Latest update in your industry</string>
+    <string name="slide_2_desc">We bring you latest news to keep you updated and you can read breaking news about your industry from here</string>
+
+    <string name="slide_3_title">Crate your online store with us</string>
+    <string name="slide_3_desc">If you want to sell your products online then we will give you the right place to do it. Start your online store to sell your products. </string>
+
+</resources>

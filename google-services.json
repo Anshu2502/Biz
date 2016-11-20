@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "418733543708",
+    "firebase_url": "https://bizfriend-432ec.firebaseio.com",
+    "project_id": "bizfriend-432ec",
+    "storage_bucket": "bizfriend-432ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418733543708:android:371c6f639527c25e",
+        "android_client_info": {
+          "package_name": "com.example.pitech09.bizfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418733543708-ro6qf92h77o7mhhtug5su7cgf9vgtgfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pitech09.bizfriend",
+            "certificate_hash": "C6434F7CC09805F1C053BD435A58A1EADFDB7DC4"
+          }
+        },
+        {
+          "client_id": "418733543708-cst49vepi3tpcauovuojnt8atk1hhg5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujTDxYc9OU6FFoKfwljNpxavhOE5BT5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418733543708-cst49vepi3tpcauovuojnt8atk1hhg5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

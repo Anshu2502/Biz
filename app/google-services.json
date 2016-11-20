@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662158471000",
+    "firebase_url": "https://bizfriend-bf611.firebaseio.com",
+    "project_id": "bizfriend-bf611",
+    "storage_bucket": "bizfriend-bf611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662158471000:android:371c6f639527c25e",
+        "android_client_info": {
+          "package_name": "com.makes.pitech09.bizfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662158471000-spdc6b40aqhavm4q00gnk402p3m13kll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZEzv9rQKj9xTiRxoL3og5p0Dj0_Y3Zc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
